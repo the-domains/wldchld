@@ -1,0 +1,14 @@
+layout_spectrum: 0.5227630373556167
+typography_spectrum: 0.41586474678479135
+color:
+  brandStrength: 0.15438312757760286
+  lightness: 0.4626593221910298
+  saturation: 0.5585912133101374
+  rhythmicContrast: 0.2974789645522833
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: WLDCHLD
